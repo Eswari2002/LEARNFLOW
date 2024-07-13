@@ -29,9 +29,8 @@ This project aims to develop a model that recognizes facial emotions (e.g., happ
 1. Download and extract the dataset from Kaggle, and place it in the project directory.
 2. Run the training script:
     ```sh
-    python emotion_recognition.py
+    Jupyter Notebook Facial_Emotion_Recognition.ipynb
     ```
-3. The model will be saved as `emotion_recognition_model.h5`.
 
 ## Dataset
 
@@ -51,10 +50,11 @@ The model is built using a Convolutional Neural Network (CNN) with the following
 ## Results
 
 The model achieves the following results on the validation set:
-- Accuracy: X%
-- Loss: Y%
-
-(Add any relevant metrics, graphs, or visualizations here.)
+- Accuracy: 98%
+- Loss: 07%
+- Precision: 99%
+- recall: 98%
+- F1 score: 98%
 
 ## Contributing
 
