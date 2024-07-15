@@ -2,4 +2,6 @@ pandas
 numpy
 opencv-python
 tensorflow
+matplotlib
 scikit-learn
+seaborn
